@@ -1,6 +1,6 @@
 # ATM-Simulator
 
-/*This Java program simulates an Automated Teller Machine (ATM) with basic functionalities such as user authentication, checking balance, depositing money, and withdrawing money.*/
+*This Java program simulates an Automated Teller Machine (ATM) with basic functionalities such as user authentication, checking balance, depositing money, and withdrawing money.*
 
 Features
 User Authentication: Users are authenticated using their ID and PIN.
@@ -36,7 +36,6 @@ Feel free to modify the sample user data or add more users as needed.
 Author
 This program was authored by Anant Kumar Gupta.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
